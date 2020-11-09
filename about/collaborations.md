@@ -1,4 +1,4 @@
-#currently collaborating/volunteering with:
+# currently collaborating/volunteering with:
 - [Penne Amiche della Scienza] (https://sites.google.com/view/lettereprescienziati/)
 - [Project Lockdown] (https://projectlockdown.world/)
 - [Wellyou] (https://apps.apple.com/us/app/wellyou-in-hard-times/id1505739966)
