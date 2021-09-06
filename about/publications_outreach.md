@@ -1,7 +1,8 @@
 # Publications
-1. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi [Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing]. Psicologia sociale, 11(1), 89-101.
-2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (accepted for publication in Cognitive Science). The effect of evidential impact on perceptual probabilistic judgments. 
+1. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi ["Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing"](https://psycnet.apa.org/record/2016-42454-005). Psicologia sociale, 11(1), 89-101.
+2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). ["The effect of evidential impact on perceptual probabilistic judgments"](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). Cognitive Science, 45(1), e12919.
 3. (in preparation): Schreiber, J., Manheim, D., Winter, C., Pham, D., & Mangiarulo, M. COVID-19 behaviour compliance in collectivistic and individualistic countries
+4. (preregistered study, accepted in principle): Colman, A., Pulford, B., Frosch, C., and Mangiarulo, M. Does Competitive Winning Increase Subsequent Cheating? Royal Society Open Science
 
 # Poster presentations:
 1. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2016). Evidential impact affects perceptual probabilistic reasoning: A preliminary study. Poster presented at: CIMeC DS Day, 2016 Nov 4, Rovereto, Italy.
@@ -13,6 +14,7 @@
 1. Mangiarulo, M. (2016). “How evidential impact influences probability judgements: A preliminary study”. Young Scientists’ Forum, Sep 2016, Aurich, Germany.
 2. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2018). Confirmation relations affect perceptual probabilistic reasoning. Cognitive Science Arena, 2018 Feb 23, Bressanone, Italy.
 3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K.. The effect of evidential impact on perceptual probabilistic judgments, SPUDM 2019, Aug 18-22, Amsterdam, Netherlands.
+4. Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Cyberbullying and cyberstalking in Higher Education: A Systematic Review. Eurocrim e-conference 2021, Sept 8-10.
 
 # Outreach:
 
