@@ -1,10 +1,13 @@
 # Publications
+
 1. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi ["Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing"](https://psycnet.apa.org/record/2016-42454-005). Psicologia sociale, 11(1), 89-101.
 2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). ["The effect of evidential impact on perceptual probabilistic judgments"](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). Cognitive Science, 45(1), e12919.
-3. (preregistered study, accepted in principle): Colman, A., Pulford, B., Frosch, C., and Mangiarulo, M. Does Competitive Winning Increase Subsequent Cheating? 
-4. (in preparation) Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Systematic review  on the prevalence of cyber-bullying and cyber-stalking in academia 
+3. (preregistered study, accepted in principle): Colman, A., Pulford, B., Frosch, C., and Mangiarulo, M. Does Competitive Winning Increase Subsequent Cheating?
+4. (submitted) Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Systematic review on the prevalence of cyber-bullying and cyber-stalking in academia
+5. (in preparation) Bussu, A., Ashton, S-A., Pulina, M., Mangiarulo, M. An exploratory study of cyberbullying and cyberstalking in the academic context during COVID-19
 
 # Poster presentations:
+
 1. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2016). Evidential impact affects perceptual probabilistic reasoning: A preliminary study. Poster presented at: CIMeC DS Day, 2016 Nov 4, Rovereto, Italy.
 2. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2017). Evidential impact affects probabilistic inferences on perceptual stimuli. Poster presented at: “Ten years of Mind/Brain Sciences at the University of Trento”, 2017 Oct 20-21, Rovereto, Italy.	
 3. Mangiarulo, M., Polonio, L., Pighin, S., Coricelli, G., & Tentori, K. (2018). Evidential impact affects probabilistic inferences on perceptual stimuli. Poster presented at: Rovereto Workshop on Concepts, Actions and Objects, 2018 May 4, Rovereto, Italy.
