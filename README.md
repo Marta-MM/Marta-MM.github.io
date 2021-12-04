@@ -6,7 +6,8 @@ My main research interests involve probabilistic inference, social hypothesis te
 - Twitter: [@Marta_Mang](https://twitter.com/Marta_Mang)
 - Linkedin: [Marta Mangiarulo](https://www.linkedin.com/in/martamangiarulo/)
 - Github: [Marta-MM](https://github.com/Marta-MM)
-- my updated cv: [cv Sept 2021](https://drive.google.com/file/d/1IKTM_jRTX2kma-j-e8j_xUz2ZncQ2y1T/view?usp=sharing)
+- academic cv: [cv Dec 2021](https://drive.google.com/file/d/1IKTM_jRTX2kma-j-e8j_xUz2ZncQ2y1T/view?usp=sharing)
+- short cv: [short cv](https://drive.google.com/file/d/1knqlen62WhfuxzkAtoGiS7fkyLxwibiH/view?usp=sharing)
 - find conference and seminar presentations [here](https://drive.google.com/drive/folders/1v1Dgm0gyAvfwGOgoejvUD270C1PXZYej?usp=sharing) (work in progress)
 
 For an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
