@@ -4,7 +4,7 @@
 2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). ["The effect of evidential impact on perceptual probabilistic judgments"](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). Cognitive Science, 45(1), e12919.
 3. (preregistered study, accepted in principle): Colman, A., Pulford, B., Frosch, C., and Mangiarulo, M. Does Competitive Winning Increase Subsequent Cheating?
 4. (submitted) Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Systematic review on the prevalence of cyber-bullying and cyber-stalking in academia
-5. (in preparation) Bussu, A., Ashton, S-A., Pulina, M., Mangiarulo, M. An exploratory study of cyberbullying and cyberstalking in the academic context during COVID-19
+5. (submitted) Bussu, A., Ashton, S-A., Pulina, M., Mangiarulo, M. An exploratory study of cyberbullying and cyberstalking in the academic context during COVID-19
 
 # Poster presentations:
 
