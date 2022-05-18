@@ -6,3 +6,4 @@
 - [SCRUBCovid19](https://www.scrubcovid19.org/)
 - [Pint of Science](https://pintofscience.co.uk/team/Leicester%20Team)
 - [Speakers' Corner Trust](https://www.speakerscornertrust.org/) 
+- Edge Hill University (Dr. A. Bussu)
