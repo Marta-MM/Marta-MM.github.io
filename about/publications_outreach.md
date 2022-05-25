@@ -1,7 +1,7 @@
 # Publications
 
-1. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi ["Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing"](https://psycnet.apa.org/record/2016-42454-005). Psicologia sociale, 11(1), 89-101.
-2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). ["The effect of evidential impact on perceptual probabilistic judgments"](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). Cognitive Science, 45(1), e12919.
+1. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi [[Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing]](https://psycnet.apa.org/record/2016-42454-005). _Psicologia sociale_, 11(1), 89-101.
+2. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). [The effect of evidential impact on perceptual probabilistic judgments](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). _Cognitive Science_, 45(1), e12919.
 3. (submitted) Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Systematic review on the prevalence of cyber-bullying and cyber-stalking in academia
 4. (submitted) Bussu, A., Ashton, S-A., Pulina, M., Mangiarulo, M. An exploratory study of cyberbullying and cyberstalking in the academic context during COVID-19
 
@@ -15,9 +15,9 @@
 
 1. Mangiarulo, M. (2016). “How evidential impact influences probability judgements: A preliminary study”. Young Scientists’ Forum, Sep 2016, Aurich, Germany.
 2. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2018). Confirmation relations affect perceptual probabilistic reasoning. Cognitive Science Arena, 2018 Feb 23, Bressanone, Italy.
-3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2019). The effect of evidential impact on perceptual probabilistic judgments, SPUDM 2019, Aug 18-22, Amsterdam, Netherlands.
-4. Mangiarulo, M. (2021) Caring for your mental health and career as a foreign researcher. NPB PGR day 2021 Keynote talk, Jul 29.
-5. Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. (2021) Cyberbullying and cyberstalking in Higher Education: A Systematic Review. Eurocrim e-conference 2021, Sept 8-10.
+3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K.. The effect of evidential impact on perceptual probabilistic judgments, SPUDM 2019, Aug 18-22, Amsterdam, Netherlands.
+4. Mangiarulo, M. Caring for your mental health and career as a foreign researcher, NPB PGR day 2021 Keynote talk, Jul 29.
+5. Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Cyberbullying and cyberstalking in Higher Education: A Systematic Review. Eurocrim e-conference 2021, Sept 8-10.
 6. Mangiarulo, M. (2022). A gentle introduction to JASP. Invited workshop for FAR Hub at Edinburgh Napier University, Apr 28.
 
 
