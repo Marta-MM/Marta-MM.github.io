@@ -15,9 +15,9 @@
 
 1. Mangiarulo, M. (2016). “How evidential impact influences probability judgements: A preliminary study”. Young Scientists’ Forum, Sep 2016, Aurich, Germany.
 2. Mangiarulo, M., Polonio, L., Coricelli, G., & Tentori, K. (2018). Confirmation relations affect perceptual probabilistic reasoning. Cognitive Science Arena, 2018 Feb 23, Bressanone, Italy.
-3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K.. The effect of evidential impact on perceptual probabilistic judgments, SPUDM 2019, Aug 18-22, Amsterdam, Netherlands.
-4. Mangiarulo, M. Caring for your mental health and career as a foreign researcher, NPB PGR day 2021 Keynote talk, Jul 29.
-5. Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Cyberbullying and cyberstalking in Higher Education: A Systematic Review. Eurocrim e-conference 2021, Sept 8-10.
+3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2019). The effect of evidential impact on perceptual probabilistic judgments, SPUDM 2019, Aug 18-22, Amsterdam, Netherlands.
+4. Mangiarulo, M. (2021) Caring for your mental health and career as a foreign researcher. NPB PGR day 2021 Keynote talk, Jul 29.
+5. Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. (2021) Cyberbullying and cyberstalking in Higher Education: A Systematic Review. Eurocrim e-conference 2021, Sept 8-10.
 6. Mangiarulo, M. (2022). A gentle introduction to JASP. Invited workshop for FAR Hub at Edinburgh Napier University, Apr 28.
 
 
@@ -27,4 +27,4 @@
 2. Third, L., Vittles, P, & Mangiarulo, M. (June 2021): COVID-19 Impact on Local Democracy Citizens’  Participation in Local Decision-Making - A research project conducted by Speakers’ Corner Trust
 3. The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich,  Rosie Higman, Anna Krystalli, Alexander Morley, Martin O'Reilly, & Kirstie Whitaker. (2021). The  Turing Way: A Handbook for Reproducible Data Science (v0.0.4). Zenodo.  
 [https://doi.org/10.5281/zenodo.3233986](https://doi.org/10.5281/zenodo.3233986)
-4. (upcoming) Mangiarulo, M. (2022) Freedom of speech and local democracy: new challenges and opportunities. Talk for Pint of Science 2022, May 9.
+4. Mangiarulo, M. (2022) Freedom of speech and local democracy: new challenges and opportunities. Talk for Pint of Science 2022, May 9.
