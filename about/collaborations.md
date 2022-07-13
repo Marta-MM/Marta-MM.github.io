@@ -1,9 +1,10 @@
-# Ongoing/past collaborations and volunteering experiences:
+# Ongoing/past collaborations, contributions, and volunteering experiences:
 - [Penne Amiche della Scienza](https://sites.google.com/view/lettereprescienziati/)
 - [Project Lockdown](https://projectlockdown.world/)
 - [Wellyou](https://apps.apple.com/us/app/wellyou-in-hard-times/id1505739966)
 - [1hour.life](https://1hourlife.org/)
 - [SCRUBCovid19](https://www.scrubcovid19.org/)
+- [The Turing Way](https://the-turing-way.netlify.app/afterword/contributors-record.html#)
 - [Pint of Science](https://pintofscience.co.uk/team/Leicester%20Team)
 - [Speakers' Corner Trust](https://www.speakerscornertrust.org/) 
 - Edge Hill University (Dr. A. Bussu)
