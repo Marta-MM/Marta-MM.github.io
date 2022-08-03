@@ -1,4 +1,5 @@
-# Pictures of me doing research
+# Pictures of me working on/talking about my research
+
 Working on my presentation at the [IRSI 2016](http://2016.irsi-school.de/) in Aurich, Germany: ![alt text](https://github.com/Marta-MM/Marta-MM.github.io/blob/main/2016.jpg)
 
 October 2017, my first poster sessions: 10 Years of [Cimec](https://www.cimec.unitn.it/): ![alt text](https://github.com/Marta-MM/Marta-MM.github.io/blob/main/2017.jpg)
