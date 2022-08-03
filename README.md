@@ -10,5 +10,8 @@ My main research interests involve probabilistic inference, social hypothesis te
 - [academic cv](https://drive.google.com/file/d/163wPWVFUy0kjqLT6X6cTW8LYM4O-awSg/view?usp=sharing)
 - [short cv](https://drive.google.com/file/d/1_OpNBRGImIQIh4erKIKKCsEnQv3hkZ37/view?usp=sharing)
 - find conference and seminar presentations [here](https://drive.google.com/drive/folders/1v1Dgm0gyAvfwGOgoejvUD270C1PXZYej?usp=sharing) (work in progress)
+- for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
-For an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
+
+### 3/08/2022: New paper out with the [UoL JDM group](https://le.ac.uk/npb/research/judgment-and-decision-making): 
+### ["Does competitive winning increase subsequent cheating?"](https://doi.org/10.1098/rsos.202197)
