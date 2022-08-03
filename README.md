@@ -13,5 +13,4 @@ My main research interests involve probabilistic inference, social hypothesis te
 - for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
 
-### 3/08/2022: New paper out with the [UoL JDM group](https://le.ac.uk/npb/research/judgment-and-decision-making): 
-### ["Does competitive winning increase subsequent cheating?"](https://doi.org/10.1098/rsos.202197)
+### 3/08/2022: New paper out with the [UoL JDM group](https://le.ac.uk/npb/research/judgment-and-decision-making): ["Does competitive winning increase subsequent cheating?"](https://doi.org/10.1098/rsos.202197)
