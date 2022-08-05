@@ -1,6 +1,6 @@
 ## Marta Mangiarulo, PhD.
 
-I hold an MSc in Social Psychology and a Ph.D. in Cognitive and Brain Sciences (thesis: [The effect of evidential impact on perceptual probabilistic inference](https://core.ac.uk/download/pdf/196255311.pdf)).
+I hold an MSc in Social Psychology and a Ph.D. in Cognitive and Brain Sciences (thesis: [The effect of evidential impact on perceptual probabilistic inference](http://eprints-phd.biblio.unitn.it/3564/)).
 My main research interests involve probabilistic inference, social hypothesis testing, and reasoning biases; additionally, I am passionate about science communication and research dissemination and interested in replicability, open science issues and the interface between cognitive and social aspects in social psychology topics like intergroup relations and impression formation.
 
 - Twitter: [@Marta_Mang](https://twitter.com/Marta_Mang)
