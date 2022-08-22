@@ -32,3 +32,5 @@
 3. The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich,  Rosie Higman, Anna Krystalli, Alexander Morley, Martin O'Reilly, & Kirstie Whitaker. (2021). The  Turing Way: A Handbook for Reproducible Data Science (v0.0.4). Zenodo.  
 [https://doi.org/10.5281/zenodo.3233986](https://doi.org/10.5281/zenodo.3233986)
 4. Mangiarulo, M. (2022) Freedom of speech and local democracy: new challenges and opportunities. Talk for Pint of Science 2022, May 9.
+5. Colman, A., Mangiarulo, M. (2022). [Does entitlement make you more likely to cheat? New research challenges popular psychology idea.](https://theconversation.com/does-entitlement-make-you-more-likely-to-cheat-new-research-challenges-popular-psychology-idea-188612) _The Conversation_
+
