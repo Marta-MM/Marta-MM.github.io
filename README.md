@@ -13,5 +13,4 @@ My main research interests involve probabilistic inference, social hypothesis te
 - for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
 
-### 17/12/2022: Presenting our work on deception and persuasion at [AISC](https://event.unitn.it/aisc2022/) (Beliefs & Biases session):
-### "The dark side of confidence: can people use confidence to deceive others?" 
+### August 2023: Presenting our work on deception and persuasion at [SPUDM 2023](https://spudm2023.com/)
