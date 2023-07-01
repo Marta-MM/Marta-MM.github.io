@@ -14,3 +14,5 @@ My main research interests involve probabilistic inference, social hypothesis te
 
 
 ### August 2023: Presenting our work on deception and persuasion at [SPUDM 2023](https://spudm2023.com/)
+
+<img src="https://tracker.metricool.com/c3po.jpg?hash=3d44f38cf6ccdb2b03df56dabb092035"/>
