@@ -1,11 +1,9 @@
 # Publications
 
-1. (in preparation) Bussu, A., Mangiarulo, M., Pulina, M., Ashton, S-A. Cyberbullying and cyberstalking in higher education during COVID-19: A victim perspective.
-2. (submitted) Bussu, A., Ashton, S-A Mangiarulo, M., Pulina, M.,. An exploratory qualitative study of cyberbullying and cyberstalking in the academic context during COVID-19
-3. (submitted) Bussu, A., Molloy, E., Mangiarulo, M., Pulina, M., Ashton, S-A. Systematic review on the prevalence of cyber-bullying and cyber-stalking in academia
-4. Colman, A.M., Pulford, B.D., Frosch, C.A., Mangiarulo, M., Miles, J.N.V. (2022) [Does competitive winning increase subsequent cheating?](https://doi.org/10.1098/rsos.20219) _Royal Society Open Science  9_: 202197.
-5. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). [The effect of evidential impact on perceptual probabilistic judgments](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). _Cognitive Science_, 45(1), e12919.
-6. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi. [[Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing]](https://psycnet.apa.org/record/2016-42454-005). _Psicologia sociale_, 11(1), 89-101.
+1. Bussu, A., Ashton, S-A., Pulina, M., Mangiarulo, M. An explorative qualitative study of Cyberbullying and Cyberstalking in a Higher Education Community. _Accepted for publication in Crime Prevention and Community Safety._
+2. Colman, A.M., Pulford, B.D., Frosch, C.A., Mangiarulo, M., Miles, J.N.V. (2022) [Does competitive winning increase subsequent cheating?](https://doi.org/10.1098/rsos.20219) _Royal Society Open Science  9_: 202197.
+3. Mangiarulo, M., Pighin, S., Polonio, L., & Tentori, K. (2021). [The effect of evidential impact on perceptual probabilistic judgments](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12919). _Cognitive Science_, 45(1), e12919.
+4. Mangiarulo, M., Rusconi, P., & Sacchi, S. (2016). Status e processo di selezione di informazioni. Gli effetti dell'asimmetria sociale sull'asimmetria delle strategie di controllo di ipotesi. [[Status and information-search process: Social asymmetry leads to asymmetric strategies in social hypothesis testing]](https://psycnet.apa.org/record/2016-42454-005). _Psicologia sociale_, 11(1), 89-101.
 
 # Poster presentations:
 
