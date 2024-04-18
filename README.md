@@ -13,6 +13,6 @@ My main research interests involve probabilistic inference, social hypothesis te
 - for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
 #### Watch my talk "Freedom of speech and local democracy: new challenges and opportunities" for UoL Festival of Change [here](https://www.youtube.com/watch?v=1exYkznnXNg)
-### August 2023: Presenting our work on deception and persuasion at [SPUDM 2023](https://spudm2023.com/)
+### June 2024: Presenting two posters at the International Conference on Thinking [(ICT2024)](https://ict2024.com)
 
 <img src="https://tracker.metricool.com/c3po.jpg?hash=3d44f38cf6ccdb2b03df56dabb092035"/>
