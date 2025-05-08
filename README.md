@@ -12,7 +12,7 @@ My main research interests involve probabilistic inference, social hypothesis te
 - find conference and seminar presentations [here](https://drive.google.com/drive/folders/1v1Dgm0gyAvfwGOgoejvUD270C1PXZYej?usp=sharing) (work in progress)
 - for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
-#### Watch my talk "Freedom of speech and local democracy: new challenges and opportunities" for UoL Festival of Change [here](https://www.youtube.com/watch?v=1exYkznnXNg)
+### New paper out: [Confidence signalling aids deception in strategic interactions](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048683/)
 ### September 2025: Presenting at [SPUDM2025](https://spudm2025.imtlucca.it/)
 
 <img src="https://tracker.metricool.com/c3po.jpg?hash=3d44f38cf6ccdb2b03df56dabb092035"/>
