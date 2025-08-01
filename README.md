@@ -14,5 +14,7 @@ My main research interests involve probabilistic inference, social hypothesis te
 
 ### New paper out: [Confidence signalling aids deception in strategic interactions](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048683/)
 ### September 2025: Presenting at [SPUDM2025](https://spudm2025.imtlucca.it/)
+  <b> Talk: "Evidential Impact Shapes Confidence but Not Accuracy in Inductive Perceptual Reasoning", 'Decision Processes' session, Sept 3rd <br>
+      Poster: "Fairness Outweighs Perceived Status in Ultimatum Game Decisions", Sept 3rd 
 
 <img src="https://tracker.metricool.com/c3po.jpg?hash=3d44f38cf6ccdb2b03df56dabb092035"/>
