@@ -12,7 +12,7 @@ My main research interests involve probabilistic inference, social hypothesis te
 - find conference and seminar presentations [here](https://drive.google.com/drive/folders/1v1Dgm0gyAvfwGOgoejvUD270C1PXZYej?usp=sharing) (work in progress)
 - for an updated list of publications and outreach activities [click here](about/publications_outreach.md); to know about my current collaborations [click here](about/collaborations.md).
 
-### New paper out: [Confidence signalling aids deception in strategic interactions](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048683/)
+### New paper out: [Systematic review and meta-analysis of educational approaches to reduce cognitive biases among students](https://www.nature.com/articles/s41562-025-02253-y) ([open access link](https://rdcu.be/eCtnM))
 ### September 2025: Presenting at [SPUDM2025](https://spudm2025.imtlucca.it/)
   <b> Talk: "Evidential Impact Shapes Confidence but Not Accuracy in Inductive Perceptual Reasoning", 'Decision Processes' session, Sept 3rd <br>
       Poster: "Fairness Outweighs Perceived Status in Ultimatum Game Decisions", Sept 3rd 
